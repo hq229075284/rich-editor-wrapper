@@ -1,0 +1,25 @@
+{
+  "name": "example",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hq229075284/rich-editor-wrapper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hq229075284/rich-editor-wrapper/issues"
+  },
+  "homepage": "https://github.com/hq229075284/rich-editor-wrapper#readme",
+  "devDependencies": {
+    "less": "^4.2.0",
+    "rich-editor": "workspace:*",
+    "vite": "^4.4.9"
+  }
+}
