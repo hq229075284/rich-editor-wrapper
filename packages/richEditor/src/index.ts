@@ -1,5 +1,8 @@
 // https://github.com/quilljs/quill
 // https://github.com/xdan/jodit
+// https://github.com/wangeditor-team/wangEditor
+// https://github.com/ether/etherpad-lite
+// https://github.com/codex-team/editor.js
 import Quill, { QuillOptionsStatic } from "quill";
 import "quill/dist/quill.snow.css";
 import "./style.less";
