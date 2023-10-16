@@ -18,8 +18,12 @@
   },
   "homepage": "https://github.com/hq229075284/rich-editor-wrapper#readme",
   "devDependencies": {
+    "@types/lodash": "^4.14.199",
     "less": "^4.2.0",
     "rich-editor": "workspace:*",
     "vite": "^4.4.9"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
   }
 }
